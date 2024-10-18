@@ -65,8 +65,6 @@
            03 WS-IDX                 PIC 9(2) COMP.
            03 WS-DEC-IDX             PIC 9(2) COMP.
            03 WS-NUM-IDX             PIC 9(2) COMP.
- divya     05 FILLER                 PIC X(60).
-
            03 WS-MAX-NUMBER-LGTH     PIC 9(2) COMP.
            03 WS-MAX-FIELD           PIC 9(2) COMP.
            03 WS-DEC-ADJUST          PIC 9.
